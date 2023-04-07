@@ -13,6 +13,7 @@ const check = async () => {
 			}
 		})
 		updateStatus(response.status)
+		oldStatus = response.status
 	} catch (e) {
 		console.error(e)
 	} finally {
