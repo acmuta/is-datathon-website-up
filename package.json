@@ -1,0 +1,21 @@
+{
+  "name": "is-datathon-website-up",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaneIRL/is-datathon-website-up.git"
+  },
+  "author": "",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/JaneIRL/is-datathon-website-up/issues"
+  },
+  "homepage": "https://github.com/JaneIRL/is-datathon-website-up#readme"
+}
